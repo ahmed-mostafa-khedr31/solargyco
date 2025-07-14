@@ -1,0 +1,211 @@
+.elementor-kit-6 {
+  --e-global-color-primary: #397abd;
+  --e-global-color-secondary: #787878;
+  --e-global-color-text: #4b4b4b;
+  --e-global-color-accent: #00558c;
+  --e-global-color-982e7a8: #000000;
+  --e-global-color-0a68f04: #ffffff;
+  --e-global-color-1d5ed71: #ffffff00;
+  --e-global-color-e4ee48d: #e6f3f5;
+  --e-global-color-a4f6ab9: #397abd;
+  --e-global-typography-primary-font-family: "Roboto";
+  --e-global-typography-primary-font-weight: 600;
+  --e-global-typography-secondary-font-family: "Roboto Slab";
+  --e-global-typography-secondary-font-weight: 400;
+  --e-global-typography-text-font-family: "Montserrat";
+  --e-global-typography-text-font-size: 16px;
+  --e-global-typography-text-font-weight: 400;
+  --e-global-typography-text-line-height: 1.5em;
+  --e-global-typography-accent-font-family: "Roboto";
+  --e-global-typography-accent-font-weight: 500;
+  --e-global-typography-852669f-font-family: "Montserrat";
+  --e-global-typography-852669f-font-size: 96px;
+  --e-global-typography-852669f-font-weight: 600;
+  --e-global-typography-852669f-line-height: 1.4em;
+  --e-global-typography-82aa549-font-family: "Montserrat";
+  --e-global-typography-82aa549-font-size: 30px;
+  --e-global-typography-82aa549-font-weight: 600;
+  --e-global-typography-82aa549-line-height: 1.4em;
+  --e-global-typography-7ef28f7-font-family: "Montserrat";
+  --e-global-typography-7ef28f7-font-size: 26px;
+  --e-global-typography-7ef28f7-font-weight: 400;
+  --e-global-typography-7ef28f7-line-height: 1.4em;
+  --e-global-typography-b8e21c0-font-family: "Montserrat";
+  --e-global-typography-b8e21c0-font-size: 18px;
+  --e-global-typography-b8e21c0-font-weight: 500;
+  --e-global-typography-b8e21c0-text-transform: none;
+  --e-global-typography-b8e21c0-line-height: 1em;
+  --e-global-typography-fb7d644-font-family: "Montserrat";
+  --e-global-typography-fb7d644-font-size: 23px;
+  --e-global-typography-fb7d644-font-weight: 400;
+  --e-global-typography-fb7d644-line-height: 1.17em;
+  --e-global-typography-0b68897-font-family: "Montserrat";
+  --e-global-typography-0b68897-font-size: 50px;
+  --e-global-typography-0b68897-font-weight: 700;
+  --e-global-typography-0b68897-line-height: 1em;
+  --e-global-typography-dc70740-font-family: "Montserrat";
+  --e-global-typography-dc70740-font-size: 24px;
+  --e-global-typography-dc70740-font-weight: 400;
+  --e-global-typography-dc70740-line-height: 1.3em;
+  --e-global-typography-89e0d48-font-family: "Montserrat";
+  --e-global-typography-89e0d48-font-size: 26px;
+  --e-global-typography-89e0d48-font-weight: 600;
+  --e-global-typography-89e0d48-line-height: 1.17em;
+  --e-global-typography-0301ea1-font-family: "Montserrat";
+  --e-global-typography-0301ea1-font-size: 14px;
+  --e-global-typography-0301ea1-font-weight: 400;
+  --e-global-typography-0301ea1-line-height: 1.5em;
+  --e-global-typography-635d215-font-family: "Montserrat";
+  --e-global-typography-635d215-font-size: 36px;
+  --e-global-typography-635d215-font-weight: 600;
+  --e-global-typography-635d215-line-height: 1.2em;
+  --e-global-typography-e72a457-font-family: "Montserrat";
+  --e-global-typography-e72a457-font-size: 20px;
+  --e-global-typography-e72a457-font-weight: 600;
+  --e-global-typography-e72a457-line-height: 1.4em;
+}
+.elementor-kit-6 h2 {
+  font-family: "Montserrat", Sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 1.4em;
+}
+.elementor-kit-6 h3 {
+  font-family: "Montserrat", Sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 1.35em;
+}
+.elementor-kit-6 h4 {
+  font-family: "Montserrat", Sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 1.3em;
+}
+.elementor-section.elementor-section-boxed > .elementor-container {
+  max-width: 1400px;
+}
+.e-con {
+  --container-max-width: 1400px;
+  --container-default-padding-top: 0px;
+  --container-default-padding-right: 0px;
+  --container-default-padding-bottom: 0px;
+  --container-default-padding-left: 0px;
+}
+.elementor-widget:not(:last-child) {
+  margin-bottom: 10px;
+}
+.elementor-element {
+  --widgets-spacing: 10px;
+}
+ {
+}
+h1.entry-title {
+  display: var(--page-title-display);
+}
+@media (max-width: 1200px) {
+  .elementor-kit-6 {
+    --e-global-typography-82aa549-font-size: 26px;
+    --e-global-typography-7ef28f7-font-size: 24px;
+    --e-global-typography-b8e21c0-font-size: 17px;
+    --e-global-typography-fb7d644-font-size: 20px;
+    --e-global-typography-0b68897-font-size: 30px;
+    --e-global-typography-dc70740-font-size: 17px;
+    --e-global-typography-89e0d48-font-size: 20px;
+    --e-global-typography-0301ea1-font-size: 13px;
+    --e-global-typography-635d215-font-size: 26px;
+    --e-global-typography-e72a457-font-size: 18px;
+    --e-global-typography-e72a457-line-height: 1.3em;
+  }
+  .elementor-kit-6 h2 {
+    font-size: 24px;
+  }
+  .elementor-kit-6 h3 {
+    font-size: 22px;
+  }
+  .elementor-kit-6 h4 {
+    font-size: 20px;
+  }
+  .elementor-section.elementor-section-boxed > .elementor-container {
+    max-width: 1024px;
+  }
+  .e-con {
+    --container-max-width: 1024px;
+  }
+}
+@media (max-width: 767px) {
+  .elementor-kit-6 {
+    --e-global-typography-text-font-size: 15px;
+    --e-global-typography-82aa549-font-size: 21px;
+    --e-global-typography-7ef28f7-font-size: 19px;
+    --e-global-typography-7ef28f7-line-height: 1.2em;
+    --e-global-typography-7ef28f7-letter-spacing: -0.1px;
+    --e-global-typography-b8e21c0-font-size: 16px;
+    --e-global-typography-fb7d644-line-height: 1em;
+    --e-global-typography-0b68897-font-size: 26px;
+    --e-global-typography-dc70740-font-size: 16px;
+    --e-global-typography-dc70740-line-height: 0.8em;
+    --e-global-typography-89e0d48-line-height: 1em;
+    --e-global-typography-0301ea1-font-size: 12px;
+    --e-global-typography-635d215-font-size: 21px;
+    --e-global-typography-e72a457-font-size: 17px;
+  }
+  .elementor-kit-6 h2 {
+    font-size: 19px;
+    line-height: 1.3em;
+  }
+  .elementor-kit-6 h3 {
+    font-size: 17px;
+    line-height: 1.2em;
+  }
+  .elementor-kit-6 h4 {
+    font-size: 16px;
+    line-height: 1.3em;
+  }
+  .elementor-section.elementor-section-boxed > .elementor-container {
+    max-width: 767px;
+  }
+  .e-con {
+    --container-max-width: 767px;
+  }
+} /* Start custom CSS */
+a,
+svg {
+  transition: all 0.3s ease-out;
+}
+@media screen and (min-width: 1441px) {
+  .cok.e-con-boxed {
+    padding-left: 8%;
+    padding-right: 8%;
+  }
+}
+@media only screen and (min-width: 1201px) and (max-width: 1440px) {
+  .cok.e-con-boxed {
+    padding-left: 7%;
+    padding-right: 7%;
+  }
+}
+@media only screen and (min-width: 961px) and (max-width: 1200px) {
+  .cok.e-con-boxed {
+    padding-left: 6%;
+    padding-right: 6%;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 960px) {
+  .cok.e-con-boxed {
+    padding-left: 44px;
+    padding-right: 44px;
+  }
+}
+@media only screen and (min-width: 511px) and (max-width: 767px) {
+  .cok.e-con-boxed {
+    padding-left: 36px;
+    padding-right: 36px;
+  }
+}
+@media screen and (max-width: 510px) {
+  .cok.e-con-boxed {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+} /* End custom CSS */
