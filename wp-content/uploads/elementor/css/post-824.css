@@ -1,0 +1,717 @@
+﻿@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;900&family=Playfair+Display+SC:ital,wght@0,400;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,600;0,900;1,100;1,200;1,400;1,500;1,900&display=swap");
+
+.elementor-824 .elementor-element.elementor-element-0f95f84 {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --background-transition: 0.3s;
+  --overlay-opacity: 0.2;
+}
+.elementor-824
+  .elementor-element.elementor-element-0f95f84:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-824
+  .elementor-element.elementor-element-0f95f84
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-image: url("../../02CTA-compressed-1.png");
+  /* background-image: url("../../Rectangle-438.svg"); */
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.elementor-824 .elementor-element.elementor-element-0f95f84::before,
+.elementor-824
+  .elementor-element.elementor-element-0f95f84
+  > .elementor-background-video-container::before,
+.elementor-824
+  .elementor-element.elementor-element-0f95f84
+  > .e-con-inner
+  > .elementor-background-video-container::before,
+.elementor-824
+  .elementor-element.elementor-element-0f95f84
+  > .elementor-background-slideshow::before,
+.elementor-824
+  .elementor-element.elementor-element-0f95f84
+  > .e-con-inner
+  > .elementor-background-slideshow::before,
+.elementor-824
+  .elementor-element.elementor-element-0f95f84
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer::before {
+  --background-overlay: "";
+  background-color: #00000000;
+}
+.elementor-824 .elementor-element.elementor-element-0f95f84,
+.elementor-824 .elementor-element.elementor-element-0f95f84::before {
+  --border-transition: 0.3s;
+}
+.elementor-824 .elementor-element.elementor-element-4422253 {
+  --display: flex;
+  --background-transition: 0.3s;
+}
+.elementor-824
+  .elementor-element.elementor-element-4422253:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-824
+  .elementor-element.elementor-element-4422253
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-image: url("../../../../images/logos/white/Emobility-white.webp");
+  background-position: 61% 50%;
+  background-repeat: no-repeat;
+  background-size: 48% auto;
+}
+.elementor-824 .elementor-element.elementor-element-4422253,
+.elementor-824 .elementor-element.elementor-element-4422253::before {
+  --border-transition: 0.3s;
+}
+.elementor-824 .elementor-element.elementor-element-4a946e0 {
+  --display: flex;
+  --min-height: 100vh;
+  --justify-content: center;
+  --background-transition: 0.3s;
+  --padding-top: 0%;
+  --padding-right: 0%;
+  --padding-bottom: 0%;
+  --padding-left: 35%;
+}
+.elementor-824
+  .elementor-element.elementor-element-ee5fc7c
+  .elementor-heading-title {
+  color: var(--e-global-color-0a68f04);
+  font-family: "Montserrat", Sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+}
+.elementor-824 .elementor-element.elementor-element-2a5cf91 {
+  color: var(--e-global-color-0a68f04);
+  font-family: "Montserrat", Sans-serif;
+  font-size: 46px;
+  font-weight: bold;
+  line-height: 1em;
+}
+.elementor-824 .elementor-element.elementor-element-5963ff3 {
+  color: var(--e-global-color-0a68f04);
+  font-family: "Montserrat", Sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.5em;
+}
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button:not(.button-style-11):not(.button-style-17)
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-11
+  .button-link-wrap
+  > span,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-11
+  .button-link-wrap::before,
+.pt_plus_button.button-style-17 .button-link-wrap > span {
+  padding: 18px 30px 18px 30px;
+}
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button
+  .button-link-wrap {
+  font-family: "Cairo", Sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  text-transform: var(--e-global-typography-b8e21c0-text-transform);
+  line-height: var(--e-global-typography-b8e21c0-line-height);
+  letter-spacing: var(--e-global-typography-b8e21c0-letter-spacing);
+  word-spacing: var(--e-global-typography-b8e21c0-word-spacing);
+  color: var(--e-global-color-primary);
+}
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button
+  .button-link-wrap
+  svg {
+  fill: var(--e-global-color-primary);
+}
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-3
+  .button-link-wrap
+  .arrow
+  * {
+  fill: var(--e-global-color-primary);
+  stroke: var(--e-global-color-primary);
+}
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-7
+  .button-link-wrap:after {
+  border-color: var(--e-global-color-primary);
+}
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-2
+  .button-link-wrap
+  i,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-3
+  a.button-link-wrap:before,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-4
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-5
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-8
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-10
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-11
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-14
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-15
+  .button-link-wrap::before,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-15
+  .button-link-wrap::after,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-16
+  .button-link-wrap::after,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-17
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-18
+  .button-link-wrap::after,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-19
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-20
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-21
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-22
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-24
+  .button-link-wrap {
+  background-color: var(--e-global-color-0a68f04);
+}
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-4
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-5
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-8
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-10
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-11
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-12
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-13
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-14
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-16
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-17
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-19
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-20
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-21
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-22
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-24
+  .button-link-wrap {
+  border-style: solid;
+  border-color: var(--e-global-color-primary);
+}
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-4
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-5
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-8
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-10
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-11
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-12
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-13
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-14
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-16
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-16
+  .button-link-wrap::before,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-17
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-19
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-20
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-21
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-22
+  .button-link-wrap,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-24
+  .button-link-wrap {
+  border-width: 1px 1px 1px 1px;
+}
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-18
+  .button-link-wrap {
+  background: var(--e-global-color-primary);
+}
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button
+  .button-link-wrap:hover,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-17
+  .button-link-wrap
+  .btn-icon,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-22
+  .button-link-wrap
+  .btn-icon {
+  color: var(--e-global-color-0a68f04);
+}
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button
+  .button-link-wrap:hover
+  svg,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-17
+  .button-link-wrap
+  .btn-icon
+  svg,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-22
+  .button-link-wrap
+  .btn-icon
+  svg,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-11
+  .button-link-wrap
+  svg,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-14
+  .button-link-wrap
+  svg {
+  fill: var(--e-global-color-0a68f04);
+}
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-11
+  .button-link-wrap::before,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-14
+  .button-link-wrap::after {
+  color: var(--e-global-color-0a68f04);
+}
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-3
+  .button-link-wrap:hover
+  .arrow-1
+  * {
+  fill: var(--e-global-color-0a68f04);
+  stroke: var(--e-global-color-0a68f04);
+}
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-2
+  .button-link-wrap:hover
+  i,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-3
+  .button-link-wrap:hover:before,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-4
+  .button-link-wrap::after,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-5
+  .button-link-wrap:hover,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-5
+  .button-link-wrap:before,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-5
+  .button-link-wrap:after,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-8
+  .button-link-wrap:hover,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-10
+  .button-link-wrap:hover,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-11
+  .button-link-wrap::before,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-12
+  .button-link-wrap::before,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-13
+  .button-link-wrap::before,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-13
+  .button-link-wrap::after,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-14
+  .button-link-wrap:hover,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-15
+  .button-link-wrap:hover::after,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-16
+  .button-link-wrap::before,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-17
+  .button-link-wrap::before,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-18
+  .button-link-wrap:hover::after,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-19
+  .button-link-wrap:after,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-20
+  .button-link-wrap:after,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-21
+  .button-link-wrap:after,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-22
+  .button-link-wrap:hover,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-24
+  .button-link-wrap:hover {
+  background-color: var(--e-global-color-primary);
+}
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-4
+  .button-link-wrap:hover,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-5
+  .button-link-wrap:hover,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-8
+  .button-link-wrap:hover,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-10
+  .button-link-wrap:hover,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-11
+  .button-link-wrap:hover,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-12
+  .button-link-wrap:hover,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-13
+  .button-link-wrap:hover,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-14
+  .button-link-wrap:hover,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-16
+  .button-link-wrap::before,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-17
+  .button-link-wrap:hover,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-19
+  .button-link-wrap:hover,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-20
+  .button-link-wrap:hover,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-21
+  .button-link-wrap:hover,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-22
+  .button-link-wrap:hover,
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-24
+  .button-link-wrap:hover {
+  border-color: var(--e-global-color-primary);
+}
+.elementor-824
+  .elementor-element.elementor-element-2460caa
+  .pt_plus_button.button-style-18
+  .button-link-wrap::before {
+  background: var(--e-global-color-primary);
+}
+@media (max-width: 1200px) {
+  .elementor-824
+    .elementor-element.elementor-element-4422253:not(
+      .elementor-motion-effects-element-type-background
+    ),
+  .elementor-824
+    .elementor-element.elementor-element-4422253
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer {
+    background-position: 58% -66px;
+  }
+  .elementor-824 .elementor-element.elementor-element-4a946e0 {
+    --min-height: 390px;
+    --padding-top: 0%;
+    --padding-right: 0%;
+    --padding-bottom: 0%;
+    --padding-left: 30%;
+  }
+  .elementor-824
+    .elementor-element.elementor-element-ee5fc7c
+    .elementor-heading-title {
+    font-size: 17px;
+  }
+  .elementor-824 .elementor-element.elementor-element-2a5cf91 {
+    font-size: 25px;
+  }
+  .elementor-824 .elementor-element.elementor-element-5963ff3 {
+    font-size: 17px;
+  }
+  .elementor-824
+    .elementor-element.elementor-element-2460caa
+    .pt_plus_button:not(.button-style-11):not(.button-style-17)
+    .button-link-wrap,
+  .elementor-824
+    .elementor-element.elementor-element-2460caa
+    .pt_plus_button.button-style-11
+    .button-link-wrap
+    > span,
+  .elementor-824
+    .elementor-element.elementor-element-2460caa
+    .pt_plus_button.button-style-11
+    .button-link-wrap::before,
+  .pt_plus_button.button-style-17 .button-link-wrap > span {
+    padding: 15px 23px 15px 23px;
+  }
+  .elementor-824
+    .elementor-element.elementor-element-2460caa
+    .pt_plus_button
+    .button-link-wrap {
+    font-size: var(--e-global-typography-b8e21c0-font-size);
+    line-height: var(--e-global-typography-b8e21c0-line-height);
+    letter-spacing: var(--e-global-typography-b8e21c0-letter-spacing);
+    word-spacing: var(--e-global-typography-b8e21c0-word-spacing);
+  }
+}
+@media (max-width: 767px) {
+  .elementor-824
+    .elementor-element.elementor-element-0f95f84:not(
+      .elementor-motion-effects-element-type-background
+    ),
+  .elementor-824
+    .elementor-element.elementor-element-0f95f84
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer {
+    background-position: -68px 0px;
+  }
+  .elementor-824
+    .elementor-element.elementor-element-4422253:not(
+      .elementor-motion-effects-element-type-background
+    ),
+  .elementor-824
+    .elementor-element.elementor-element-4422253
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer {
+    background-position: 120% -37px;
+    background-size: 81% auto;
+  }
+  .elementor-824 .elementor-element.elementor-element-4a946e0 {
+    --min-height: 370px;
+    --padding-top: 0%;
+    --padding-right: 0%;
+    --padding-bottom: 0%;
+    --padding-left: 0%;
+  }
+  .elementor-824 .elementor-element.elementor-element-ee5fc7c {
+    text-align: center;
+  }
+  .elementor-824 .elementor-element.elementor-element-2a5cf91 {
+    text-align: center;
+    font-size: 19px;
+  }
+  .elementor-824 .elementor-element.elementor-element-5963ff3 {
+    text-align: center;
+    font-size: 16px;
+  }
+  .elementor-824
+    .elementor-element.elementor-element-2460caa
+    .pt_plus_button
+    .button-link-wrap {
+    font-size: var(--e-global-typography-b8e21c0-font-size);
+    line-height: var(--e-global-typography-b8e21c0-line-height);
+    letter-spacing: var(--e-global-typography-b8e21c0-letter-spacing);
+    word-spacing: var(--e-global-typography-b8e21c0-word-spacing);
+  }
+}
+@media (min-width: 1201px) {
+  .elementor-824
+    .elementor-element.elementor-element-0f95f84:not(
+      .elementor-motion-effects-element-type-background
+    ),
+  .elementor-824
+    .elementor-element.elementor-element-0f95f84
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer {
+    background-attachment: fixed;
+    height: 100vh;
+  }
+} /* Start custom CSS for tp-button, class: .elementor-element-2460caa */
+.elementor-824 .elementor-element.elementor-element-2460caa a:hover {
+  background-color: var(--e-global-color-primary) !important;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-4422253 */
+.elementor-824
+  .elementor-element.elementor-element-4422253
+  .elementor-motion-effects-layer {
+  opacity: 0.5;
+} /* End custom CSS */

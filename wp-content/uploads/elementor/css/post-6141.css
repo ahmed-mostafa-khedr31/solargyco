@@ -1,0 +1,26 @@
+.elementor-6141 .elementor-element.elementor-element-44ff0f0{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--gap:20px;--background-transition:0.3s;}.elementor-6141 .elementor-element.elementor-element-7394296 img{width:100%;height:260px;object-fit:cover;object-position:center center;transition-duration:0.3s;border-radius:5px 5px 5px 5px;}.elementor-6141 .elementor-element.elementor-element-7394296:hover img{filter:brightness( 115% ) contrast( 100% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg );}.elementor-6141 .elementor-element.elementor-element-3146fc0{--display:flex;--background-transition:0.3s;}.elementor-6141 .elementor-element.elementor-element-51bd482 .elementor-heading-title{color:var( --e-global-color-primary );font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:400;}.elementor-6141 .elementor-element.elementor-element-577fc06 .elementor-heading-title{color:var( --e-global-color-982e7a8 );font-family:var( --e-global-typography-e72a457-font-family ), Sans-serif;font-size:var( --e-global-typography-e72a457-font-size );font-weight:var( --e-global-typography-e72a457-font-weight );line-height:var( --e-global-typography-e72a457-line-height );letter-spacing:var( --e-global-typography-e72a457-letter-spacing );word-spacing:var( --e-global-typography-e72a457-word-spacing );}@media(max-width:1200px){.elementor-6141 .elementor-element.elementor-element-7394296 img{height:180px;}.elementor-6141 .elementor-element.elementor-element-3146fc0{--gap:10px;}.elementor-6141 .elementor-element.elementor-element-51bd482 .elementor-heading-title{font-size:17px;}.elementor-6141 .elementor-element.elementor-element-577fc06 .elementor-heading-title{font-size:var( --e-global-typography-e72a457-font-size );line-height:var( --e-global-typography-e72a457-line-height );letter-spacing:var( --e-global-typography-e72a457-letter-spacing );word-spacing:var( --e-global-typography-e72a457-word-spacing );}}@media(max-width:767px){.elementor-6141 .elementor-element.elementor-element-44ff0f0{--gap:15px;}.elementor-6141 .elementor-element.elementor-element-7394296 img{height:160px;}.elementor-6141 .elementor-element.elementor-element-51bd482 .elementor-heading-title{font-size:15px;}.elementor-6141 .elementor-element.elementor-element-577fc06 .elementor-heading-title{font-size:var( --e-global-typography-e72a457-font-size );line-height:var( --e-global-typography-e72a457-line-height );letter-spacing:var( --e-global-typography-e72a457-letter-spacing );word-spacing:var( --e-global-typography-e72a457-word-spacing );}}/* Start custom CSS for image, class: .elementor-element-7394296 */.elementor-6141 .elementor-element.elementor-element-7394296 a{width:100%;}/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-577fc06 */.elementor-6141 .elementor-element.elementor-element-577fc06 a:hover{color: var(--e-global-color-primary );}
+
+@media screen and (min-width: 1201px) {
+.elementor-6141 .elementor-element.elementor-element-577fc06 .elementor-heading-title{display: -webkit-box;
+-webkit-line-clamp: 3;
+-webkit-box-orient: vertical;
+white-space: normal;
+overflow: hidden;}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1200px) {
+.elementor-6141 .elementor-element.elementor-element-577fc06 .elementor-heading-title{display: -webkit-box;
+-webkit-line-clamp: 3;
+-webkit-box-orient: vertical;
+white-space: normal;
+overflow: hidden;}
+}
+
+@media screen and (max-width: 767px){
+.elementor-6141 .elementor-element.elementor-element-577fc06 .elementor-heading-title{display: -webkit-box;
+-webkit-line-clamp: 3;
+-webkit-box-orient: vertical;
+white-space: normal;
+overflow: hidden;}
+}/* End custom CSS */
