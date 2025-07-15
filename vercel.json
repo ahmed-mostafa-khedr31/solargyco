@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "solargyco.com"
+        }
+      ],
+      "destination": "https://www.solargyco.com",
+      "permanent": true
+    }
+  ]
+}
