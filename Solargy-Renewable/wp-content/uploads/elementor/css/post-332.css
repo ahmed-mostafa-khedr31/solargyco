@@ -1,0 +1,167 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;900&family=Playfair+Display+SC:ital,wght@0,400;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,600;0,900;1,100;1,200;1,400;1,500;1,900&display=swap");
+:root {
+  --thm-font: "Cairo", sans-serif;
+  --heading-font: "Montserrat", sans-serif;
+  --special-font: "Cairo", sans-serif;
+  --thm-base: #000000;
+  --thm-base-rgb: 177, 15, 60;
+  --thm-black: #000000;
+  --thm-black-rgb: 7, 18, 48;
+}
+.elementor-332 .elementor-element.elementor-element-69e7d958 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 0px 0px 0px 0px;
+}
+.elementor-332
+  .elementor-element.elementor-element-3c89e851
+  > .elementor-element-populated {
+  margin: 0px 0px 0px 0px;
+  --e-column-margin-right: 0px;
+  --e-column-margin-left: 0px;
+  padding: 0px 0px 0px 0px;
+}
+.elementor-332 .elementor-element.elementor-element-11768c62 {
+  color: #616161;
+  font-family: "Ubuntu", Sans-serif;
+  font-weight: 400;
+}
+.elementor-332
+  .elementor-element.elementor-element-11768c62
+  > .elementor-widget-container {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+.elementor-332 .elementor-element.elementor-element-3072ca93 {
+  color: #616161;
+  font-family: "Ubuntu", Sans-serif;
+  font-weight: 400;
+}
+.elementor-332
+  .elementor-element.elementor-element-3072ca93
+  > .elementor-widget-container {
+  margin: 30px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+.elementor-332 .elementor-element.elementor-element-1eb59ba8 {
+  color: #616161;
+  font-family: "Ubuntu", Sans-serif;
+  font-weight: 400;
+}
+.elementor-332
+  .elementor-element.elementor-element-1eb59ba8
+  > .elementor-widget-container {
+  margin: 30px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+.elementor-332 .elementor-element.elementor-element-4c340bd8 {
+  color: #616161;
+  font-family: "Ubuntu", Sans-serif;
+  font-weight: 400;
+}
+.elementor-332
+  .elementor-element.elementor-element-4c340bd8
+  > .elementor-widget-container {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+.elementor-332 .elementor-element.elementor-element-617f9b1 {
+  margin-top: 30px;
+  margin-bottom: 0px;
+  padding: 0px 0px 0px 0px;
+}
+.elementor-332
+  .elementor-element.elementor-element-6ba5044f
+  > .elementor-element-populated {
+  margin: 0px 0px 0px 0px;
+  --e-column-margin-right: 0px;
+  --e-column-margin-left: 0px;
+  padding: 0px 15px 0px 0px;
+}
+.elementor-332
+  .elementor-element.elementor-element-220fbe6e
+  > .elementor-widget-container {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+.elementor-332
+  .elementor-element.elementor-element-7c94206d
+  > .elementor-element-populated {
+  margin: 0px 0px 0px 0px;
+  --e-column-margin-right: 0px;
+  --e-column-margin-left: 0px;
+  padding: 0px 0px 0px 15px;
+}
+.elementor-332
+  .elementor-element.elementor-element-5ccef9ca
+  > .elementor-widget-container {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+.elementor-332 .elementor-element.elementor-element-1c1a2d25 {
+  margin-top: 30px;
+  margin-bottom: 0px;
+  padding: 0px 0px 0px 0px;
+}
+.elementor-332
+  .elementor-element.elementor-element-7acbe852
+  > .elementor-element-populated {
+  margin: 0px 0px 0px 0px;
+  --e-column-margin-right: 0px;
+  --e-column-margin-left: 0px;
+  padding: 0px 0px 0px 0px;
+}
+.elementor-332
+  .elementor-element.elementor-element-4570cae7
+  .elementor-heading-title {
+  color: #181818;
+  font-family: "Josefin Sans", Sans-serif;
+  font-weight: 700;
+}
+.elementor-332
+  .elementor-element.elementor-element-4570cae7
+  > .elementor-widget-container {
+  margin: 0px 0px 10px 0px;
+  padding: 0px 0px 0px 0px;
+}
+.elementor-332 .elementor-element.elementor-element-21a904f6 {
+  color: #616161;
+  font-family: "Ubuntu", Sans-serif;
+  font-weight: 400;
+}
+.elementor-332
+  .elementor-element.elementor-element-21a904f6
+  > .elementor-widget-container {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+.elementor-332 .elementor-element.elementor-element-1517e0c8 {
+  color: #616161;
+  font-family: "Ubuntu", Sans-serif;
+  font-weight: 400;
+}
+.elementor-332
+  .elementor-element.elementor-element-1517e0c8
+  > .elementor-widget-container {
+  margin: 30px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+@media (max-width: 1024px) {
+  .elementor-332
+    .elementor-element.elementor-element-7c94206d
+    > .elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+  }
+}
+@media (max-width: 767px) {
+  .elementor-332
+    .elementor-element.elementor-element-7c94206d
+    > .elementor-element-populated {
+    margin: 30px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+  }
+}
