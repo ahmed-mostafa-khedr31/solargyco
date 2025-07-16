@@ -1,0 +1,1302 @@
+@font-face {
+  font-family: flaticon;
+  src: url(fonts/flaticona1f9.ttf) format("truetype"), url(fonts/flaticona1f9.woff) format("woff"), url(fonts/flaticona1f9.woff2) format("woff2"), url(fonts/flaticona1f9.eot) format("embedded-opentype"), url(fonts/flaticona1f9.svg) format("svg")
+}
+
+i[class^=flaticon-]:before, i[class*=" flaticon-"]:before {
+  font-family: flaticon !important;
+  font-style: normal;
+  font-weight: 400 !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale
+}
+
+.flaticon-accident:before {
+  content: "\f101"
+}
+
+.flaticon-aeroplane:before {
+  content: "\f102"
+}
+
+.flaticon-plane:before {
+  content: "\f103"
+}
+
+.flaticon-cruise:before {
+  content: "\f104"
+}
+
+.flaticon-water-drop:before {
+  content: "\f105"
+}
+
+.flaticon-earthquake:before {
+  content: "\f106"
+}
+
+.flaticon-truck:before {
+  content: "\f107"
+}
+
+.flaticon-explosion:before {
+  content: "\f108"
+}
+
+.flaticon-fire:before {
+  content: "\f109"
+}
+
+.flaticon-thunder:before {
+  content: "\f10a"
+}
+
+.flaticon-flood:before {
+  content: "\f10b"
+}
+
+.flaticon-handshake:before {
+  content: "\f10c"
+}
+
+.flaticon-ear:before {
+  content: "\f10d"
+}
+
+.flaticon-houses:before {
+  content: "\f10e"
+}
+
+.flaticon-euro:before {
+  content: "\f10f"
+}
+
+.flaticon-landslide:before {
+  content: "\f110"
+}
+
+.flaticon-computer:before {
+  content: "\f111"
+}
+
+.flaticon-moving-truck:before {
+  content: "\f112"
+}
+
+.flaticon-pipeline:before {
+  content: "\f113"
+}
+
+.flaticon-promotion:before {
+  content: "\f114"
+}
+
+.flaticon-robber:before {
+  content: "\f115"
+}
+
+.flaticon-robbery:before {
+  content: "\f116"
+}
+
+.flaticon-storm:before {
+  content: "\f117"
+}
+
+.flaticon-settings:before {
+  content: "\f118"
+}
+
+.flaticon-tornado:before {
+  content: "\f119"
+}
+
+.flaticon-consciousness:before {
+  content: "\f11a"
+}
+
+.flaticon-heart-attack:before {
+  content: "\f11b"
+}
+
+.flaticon-dangerous:before {
+  content: "\f11c"
+}
+
+.flaticon-brain:before {
+  content: "\f11d"
+}
+
+.flaticon-bad-breath:before {
+  content: "\f11e"
+}
+
+.flaticon-car-accident:before {
+  content: "\f11f"
+}
+
+.flaticon-wounded:before {
+  content: "\f120"
+}
+
+.flaticon-fever:before {
+  content: "\f121"
+}
+
+.flaticon-swimming:before {
+  content: "\f122"
+}
+
+.flaticon-plug:before {
+  content: "\f123"
+}
+
+.flaticon-eye:before {
+  content: "\f124"
+}
+
+.flaticon-monitor:before {
+  content: "\f125"
+}
+
+.flaticon-ambulance:before {
+  content: "\f126"
+}
+
+.flaticon-stretcher:before {
+  content: "\f127"
+}
+
+.flaticon-surgery-room:before {
+  content: "\f128"
+}
+
+.flaticon-hospital:before {
+  content: "\f129"
+}
+
+.flaticon-counsel:before {
+  content: "\f12a"
+}
+
+.flaticon-skin:before {
+  content: "\f12b"
+}
+
+.flaticon-pregnant:before {
+  content: "\f12c"
+}
+
+.flaticon-brain-1:before {
+  content: "\f12d"
+}
+
+.flaticon-dead:before {
+  content: "\f12e"
+}
+
+.flaticon-wheelchair:before {
+  content: "\f12f"
+}
+
+.flaticon-motorcycle:before {
+  content: "\f130"
+}
+
+.flaticon-fishing:before {
+  content: "\f131"
+}
+
+.flaticon-duck:before {
+  content: "\f132"
+}
+
+.flaticon-car:before {
+  content: "\f133"
+}
+
+.flaticon-injury:before {
+  content: "\f134"
+}
+
+.flaticon-scorpion:before {
+  content: "\f135"
+}
+
+.flaticon-gas:before {
+  content: "\f136"
+}
+
+.flaticon-protest:before {
+  content: "\f137"
+}
+
+.flaticon-fuel:before {
+  content: "\f138"
+}
+
+.flaticon-taxi:before {
+  content: "\f139"
+}
+
+.flaticon-steering-wheel:before {
+  content: "\f13a"
+}
+
+.flaticon-passenger:before {
+  content: "\f13b"
+}
+
+.flaticon-calculator:before {
+  content: "\f13c"
+}
+
+.flaticon-pay:before {
+  content: "\f13d"
+}
+
+.flaticon-lawyer:before {
+  content: "\f13e"
+}
+
+.flaticon-bus:before {
+  content: "\f13f"
+}
+
+.flaticon-road:before {
+  content: "\f140"
+}
+
+.flaticon-trip:before {
+  content: "\f141"
+}
+
+.flaticon-air:before {
+  content: "\f142"
+}
+
+.flaticon-transfer:before {
+  content: "\f143"
+}
+
+.flaticon-house:before {
+  content: "\f144"
+}
+
+.flaticon-money:before {
+  content: "\f145"
+}
+
+.flaticon-contract:before {
+  content: "\f146"
+}
+
+.flaticon-heart:before {
+  content: "\f147"
+}
+
+.flaticon-podium:before {
+  content: "\f148"
+}
+
+.flaticon-natural-disaster:before {
+  content: "\f149"
+}
+
+.flaticon-earthquake-1:before {
+  content: "\f14a"
+}
+
+.flaticon-accident-1:before {
+  content: "\f14b"
+}
+
+.flaticon-pin:before {
+  content: "\f14c"
+}
+
+.flaticon-elastic:before {
+  content: "\f14d"
+}
+
+.flaticon-stopwatch:before {
+  content: "\f14e"
+}
+
+.flaticon-clipboard:before {
+  content: "\f14f"
+}
+
+.flaticon-badge:before {
+  content: "\f150"
+}
+
+.flaticon-review:before {
+  content: "\f151"
+}
+
+.flaticon-facebook:before {
+  content: "\f152"
+}
+
+.flaticon-twitter:before {
+  content: "\f153"
+}
+
+.flaticon-instagram:before {
+  content: "\f154"
+}
+
+.flaticon-facebook-1:before {
+  content: "\f155"
+}
+
+.flaticon-instagram-1:before {
+  content: "\f156"
+}
+
+.flaticon-twitter-1:before {
+  content: "\f157"
+}
+
+.flaticon-team:before {
+  content: "\f158"
+}
+
+.flaticon-zoology:before {
+  content: "\f159"
+}
+
+.flaticon-earthquake-2:before {
+  content: "\f15a"
+}
+
+.flaticon-car-1:before {
+  content: "\f15b"
+}
+
+.flaticon-tornado-1:before {
+  content: "\f15c"
+}
+
+.flaticon-smoke:before {
+  content: "\f15d"
+}
+
+.flaticon-owner:before {
+  content: "\f15e"
+}
+
+.flaticon-cog:before {
+  content: "\f15f"
+}
+
+.flaticon-rain:before {
+  content: "\f160"
+}
+
+.flaticon-hail:before {
+  content: "\f161"
+}
+
+.flaticon-flood-1:before {
+  content: "\f162"
+}
+
+.flaticon-sale:before {
+  content: "\f163"
+}
+
+.flaticon-car-2:before {
+  content: "\f164"
+}
+
+.flaticon-team-1:before {
+  content: "\f165"
+}
+
+.flaticon-car-door:before {
+  content: "\f166"
+}
+
+.flaticon-diesel:before {
+  content: "\f167"
+}
+
+.flaticon-grand-theft-auto:before {
+  content: "\f168"
+}
+
+.flaticon-flame:before {
+  content: "\f169"
+}
+
+.flaticon-flash:before {
+  content: "\f16a"
+}
+
+.flaticon-car-accident-1:before {
+  content: "\f16b"
+}
+
+.flaticon-blast:before {
+  content: "\f16c"
+}
+
+.flaticon-crash:before {
+  content: "\f16d"
+}
+
+.flaticon-dead-1:before {
+  content: "\f16e"
+}
+
+.flaticon-car-3:before {
+  content: "\f16f"
+}
+
+.flaticon-crash-1:before {
+  content: "\f170"
+}
+
+.flaticon-old:before {
+  content: "\f171"
+}
+
+.flaticon-close:before {
+  content: "\f172"
+}
+
+.flaticon-dead-2:before {
+  content: "\f173"
+}
+
+.flaticon-reject:before {
+  content: "\f174"
+}
+
+.flaticon-cancel:before {
+  content: "\f175"
+}
+
+.flaticon-delay:before {
+  content: "\f176"
+}
+
+.flaticon-airport:before {
+  content: "\f177"
+}
+
+.flaticon-trolley:before {
+  content: "\f178"
+}
+
+.flaticon-case:before {
+  content: "\f179"
+}
+
+.flaticon-seat:before {
+  content: "\f17a"
+}
+
+.flaticon-ticket:before {
+  content: "\f17b"
+}
+
+.flaticon-tomb:before {
+  content: "\f17c"
+}
+
+.flaticon-ambulance-1:before {
+  content: "\f17d"
+}
+
+.flaticon-doctor:before {
+  content: "\f17e"
+}
+
+.flaticon-crash-2:before {
+  content: "\f17f"
+}
+
+.flaticon-wave:before {
+  content: "\f180"
+}
+
+.flaticon-flag:before {
+  content: "\f181"
+}
+
+.flaticon-ferry-boat:before {
+  content: "\f182"
+}
+
+.flaticon-percent:before {
+  content: "\f183"
+}
+
+.flaticon-port:before {
+  content: "\f184"
+}
+
+.flaticon-captain:before {
+  content: "\f185"
+}
+
+.flaticon-truck-1:before {
+  content: "\f186"
+}
+
+.flaticon-chevron:before {
+  content: "\f187"
+}
+
+.flaticon-right-chevron:before {
+  content: "\f188"
+}
+
+.flaticon-left-chevron:before {
+  content: "\f189"
+}
+
+.flaticon-timetable:before {
+  content: "\f18a"
+}
+
+.flaticon-flag-1:before {
+  content: "\f18b"
+}
+
+.flaticon-group:before {
+  content: "\f18c"
+}
+
+.flaticon-medal:before {
+  content: "\f18d"
+}
+
+.flaticon-left-quote:before {
+  content: "\f18e"
+}
+
+.flaticon-target:before {
+  content: "\f18f"
+}
+
+.flaticon-location:before {
+  content: "\f190"
+}
+
+.flaticon-email:before {
+  content: "\f191"
+}
+
+.flaticon-down-arrow:before {
+  content: "\f192"
+}
+
+.flaticon-search:before {
+  content: "\f193"
+}
+
+.flaticon-menu:before {
+  content: "\f194"
+}
+
+.flaticon-insurance:before {
+  content: "\f195"
+}
+
+.flaticon-flood-2:before {
+  content: "\f196"
+}
+
+.flaticon-home-insurance:before {
+  content: "\f197"
+}
+
+.flaticon-health-insurance:before {
+  content: "\f198"
+}
+
+.flaticon-travel-insurance:before {
+  content: "\f199"
+}
+
+.flaticon-car-insurance:before {
+  content: "\f19a"
+}
+
+.flaticon-life-insurance:before {
+  content: "\f19b"
+}
+
+.flaticon-ship:before {
+  content: "\f19c"
+}
+
+.flaticon-luggage:before {
+  content: "\f19d"
+}
+
+.flaticon-agriculture:before {
+  content: "\f19e"
+}
+
+.flaticon-recommended:before {
+  content: "\f19f"
+}
+
+.flaticon-customer-service:before {
+  content: "\f1a0"
+}
+
+.flaticon-care:before {
+  content: "\f1a1"
+}
+
+.flaticon-enterprise:before {
+  content: "\f1a2"
+}
+
+.flaticon-team-2:before {
+  content: "\f1a3"
+}
+
+.flaticon-education:before {
+  content: "\f1a4"
+}
+
+.flaticon-policy:before {
+  content: "\f1a5"
+}
+
+.flaticon-suitcase:before {
+  content: "\f1a6"
+}
+
+.flaticon-play:before {
+  content: "\f1a7"
+}
+
+.flaticon-shop:before {
+  content: "\f1a8"
+}
+
+.flaticon-family:before {
+  content: "\f1a9"
+}
+
+.flaticon-car-4:before {
+  content: "\f1aa"
+}
+
+.flaticon-heart-1:before {
+  content: "\f1ab"
+}
+
+.flaticon-home:before {
+  content: "\f1ac"
+}
+
+.flaticon-hospital-1:before {
+  content: "\f1ad"
+}
+
+.flaticon-book:before {
+  content: "\f1ae"
+}
+
+.flaticon-automobile:before {
+  content: "\f1af"
+}
+
+.flaticon-seller:before {
+  content: "\f1b0"
+}
+
+.flaticon-call:before {
+  content: "\f1b1"
+}
+
+.flaticon-click:before {
+  content: "\f1b2"
+}
+
+.flaticon-clipboards:before {
+  content: "\f1b3"
+}
+
+.flaticon-tow-truck:before {
+  content: "\f1b4"
+}
+
+.flaticon-tow-truck-1:before {
+  content: "\f1b5"
+}
+
+.flaticon-add:before {
+  content: "\f1b6"
+}
+
+.flaticon-minus:before {
+  content: "\f1b7"
+}
+
+.flaticon-minus-1:before {
+  content: "\f1b8"
+}
+
+.flaticon-plus:before {
+  content: "\f1b9"
+}
+
+.flaticon-puzzle:before {
+  content: "\f1ba"
+}
+
+.flaticon-authentication:before {
+  content: "\f1bb"
+}
+
+.flaticon-unprotected:before {
+  content: "\f1bc"
+}
+
+.flaticon-helmet:before {
+  content: "\f1bd"
+}
+
+.flaticon-pharmacist:before {
+  content: "\f1be"
+}
+
+.flaticon-billboard:before {
+  content: "\f1bf"
+}
+
+.flaticon-medication:before {
+  content: "\f1c0"
+}
+
+.flaticon-headstone:before {
+  content: "\f1c1"
+}
+
+.flaticon-wound:before {
+  content: "\f1c2"
+}
+
+.flaticon-crutch:before {
+  content: "\f1c3"
+}
+
+.flaticon-claim:before {
+  content: "\f1c4"
+}
+
+.flaticon-smartphone:before {
+  content: "\f1c5"
+}
+
+.flaticon-invoice:before {
+  content: "\f1c6"
+}
+
+.flaticon-balance:before {
+  content: "\f1c7"
+}
+
+.flaticon-cargo-ship:before {
+  content: "\f1c8"
+}
+
+.flaticon-id-card:before {
+  content: "\f1c9"
+}
+
+.flaticon-accounting:before {
+  content: "\f1ca"
+}
+
+.flaticon-money-1:before {
+  content: "\f1cb"
+}
+
+.flaticon-id-card-1:before {
+  content: "\f1cc"
+}
+
+.flaticon-cyber-attack:before {
+  content: "\f1cd"
+}
+
+.flaticon-assistance:before {
+  content: "\f1ce"
+}
+
+.flaticon-shield:before {
+  content: "\f1cf"
+}
+
+.flaticon-ransomware:before {
+  content: "\f1d0"
+}
+
+.flaticon-call-center:before {
+  content: "\f1d1"
+}
+
+.flaticon-folder:before {
+  content: "\f1d2"
+}
+
+.flaticon-mobile:before {
+  content: "\f1d3"
+}
+
+.flaticon-crime:before {
+  content: "\f1d4"
+}
+
+.flaticon-closed:before {
+  content: "\f1d5"
+}
+
+.flaticon-bullhorn:before {
+  content: "\f1d6"
+}
+
+.flaticon-professional:before {
+  content: "\f1d7"
+}
+
+.flaticon-headphones:before {
+  content: "\f1d8"
+}
+
+.flaticon-globe-grid:before {
+  content: "\f1d9"
+}
+
+.flaticon-atm-machine:before {
+  content: "\f1da"
+}
+
+.flaticon-atm:before {
+  content: "\f1db"
+}
+
+.flaticon-padlock:before {
+  content: "\f1dc"
+}
+
+.flaticon-password:before {
+  content: "\f1dd"
+}
+
+.flaticon-passkey:before {
+  content: "\f1de"
+}
+
+.flaticon-tow-truck-2:before {
+  content: "\f1df"
+}
+
+.flaticon-businessman:before {
+  content: "\f1e0"
+}
+
+.flaticon-sport:before {
+  content: "\f1e1"
+}
+
+.flaticon-hunter:before {
+  content: "\f1e2"
+}
+
+.flaticon-helmet-1:before {
+  content: "\f1e3"
+}
+
+.flaticon-baby-boy:before {
+  content: "\f1e4"
+}
+
+.flaticon-hospitalisation:before {
+  content: "\f1e5"
+}
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("fonts/Flaticon.eot");
+  src: url("fonts/Flaticond41d.eot") format("embedded-opentype"),
+    url("fonts/Flaticon.woff") format("woff"),
+    url("fonts/Flaticon.ttf") format("truetype"),
+    url("fonts/Flaticon.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("fonts/Flaticon.svg") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+  font-family: Flaticon;
+}
+
+.flaticon-sprout:before {
+  content: "\f100";
+}
+
+.flaticon-grain:before {
+  content: "\f101";
+}
+
+.flaticon-combine-harvester:before {
+  content: "\f102";
+}
+
+.flaticon-pickup-truck:before {
+  content: "\f103";
+}
+
+.flaticon-sunflower:before {
+  content: "\f104";
+}
+
+.flaticon-shears:before {
+  content: "\f105";
+}
+
+.flaticon-wheat:before {
+  content: "\f106";
+}
+
+.flaticon-onion:before {
+  content: "\f107";
+}
+
+.flaticon-tree:before {
+  content: "\f108";
+}
+
+.flaticon-food-stand:before {
+  content: "\f109";
+}
+
+.flaticon-corn:before {
+  content: "\f10a";
+}
+
+.flaticon-mill:before {
+  content: "\f10b";
+}
+
+.flaticon-wheelbarrow:before {
+  content: "\f10c";
+}
+
+.flaticon-well:before {
+  content: "\f10d";
+}
+
+.flaticon-shovel:before {
+  content: "\f10e";
+}
+
+.flaticon-plant:before {
+  content: "\f10f";
+}
+
+.flaticon-bucket:before {
+  content: "\f110";
+}
+
+.flaticon-flour:before {
+  content: "\f111";
+}
+
+.flaticon-leaves:before {
+  content: "\f112";
+}
+
+.flaticon-well-1:before {
+  content: "\f113";
+}
+
+.flaticon-water:before {
+  content: "\f114";
+}
+
+.flaticon-wheat-1:before {
+  content: "\f115";
+}
+
+.flaticon-fruits:before {
+  content: "\f116";
+}
+
+.flaticon-tree-1:before {
+  content: "\f117";
+}
+
+.flaticon-corn-1:before {
+  content: "\f118";
+}
+
+.flaticon-rain:before {
+  content: "\f119";
+}
+
+.flaticon-sun:before {
+  content: "\f11a";
+}
+
+.flaticon-water-hose:before {
+  content: "\f11b";
+}
+
+.flaticon-plant-1:before {
+  content: "\f11c";
+}
+
+.flaticon-sun-1:before {
+  content: "\f11d";
+}
+
+.flaticon-windmill:before {
+  content: "\f11e";
+}
+
+.flaticon-bucket-1:before {
+  content: "\f11f";
+}
+
+.flaticon-power-line-with-four-insulators:before {
+  content: "\f120";
+}
+
+.flaticon-power-line-connected-towers:before {
+  content: "\f121";
+}
+
+.flaticon-bio-mass-eco-energy:before {
+  content: "\f122";
+}
+
+.flaticon-solar-panels-couple-in-sunlight:before {
+  content: "\f123";
+}
+
+.flaticon-solar-powered-house-building-with-solar-panels-on-the-roof:before {
+  content: "\f124";
+}
+
+.flaticon-house-with-solar-panel-installed:before {
+  content: "\f125";
+}
+
+.flaticon-battery-charging-with-solar-panel:before {
+  content: "\f126";
+}
+
+.flaticon-solar-panel-in-sunlight:before {
+  content: "\f127";
+}
+
+.flaticon-light-connected-to-battery-and-solar-panel:before {
+  content: "\f128";
+}
+
+.flaticon-solar-panel-in-sunlight-1:before {
+  content: "\f129";
+}
+
+.flaticon-straight-view-of-solar-panel:before {
+  content: "\f12a";
+}
+
+.flaticon-eco-solar-panel-under-bright-sun:before {
+  content: "\f12b";
+}
+
+.flaticon-industrial-waste-to-bio-mass:before {
+  content: "\f12c";
+}
+
+.flaticon-power-housing-with-power-lines:before {
+  content: "\f12d";
+}
+
+.flaticon-wheat-waste-to-bio-mass:before {
+  content: "\f12e";
+}
+
+.flaticon-ecological-solar-panels-couple-in-sunlight:before {
+  content: "\f12f";
+}
+
+.flaticon-mobile-and-laptop-charging-with-solar-panel:before {
+  content: "\f130";
+}
+
+.flaticon-eco-solar-panel-in-sunlight:before {
+  content: "\f131";
+}
+
+.flaticon-sun-radiation-symbol:before {
+  content: "\f132";
+}
+
+.flaticon-kaplan-turbine:before {
+  content: "\f133";
+}
+
+.flaticon-employee:before {
+  content: "\f134";
+}
+
+.flaticon-innovation:before {
+  content: "\f135";
+}
+
+.flaticon-employee-1:before {
+  content: "\f136";
+}
+
+.flaticon-event:before {
+  content: "\f137";
+}
+
+.flaticon-growth:before {
+  content: "\f138";
+}
+
+.flaticon-idea:before {
+  content: "\f139";
+}
+
+.flaticon-networking:before {
+  content: "\f13a";
+}
+
+.flaticon-employee-2:before {
+  content: "\f13b";
+}
+
+.flaticon-growth-1:before {
+  content: "\f13c";
+}
+
+.flaticon-trophy:before {
+  content: "\f13d";
+}
+
+.flaticon-chat-bubble:before {
+  content: "\f13e";
+}
+
+.flaticon-megaphone:before {
+  content: "\f13f";
+}
+
+.flaticon-presentation:before {
+  content: "\f141";
+}
+
+.flaticon-line-chart:before {
+  content: "\f142";
+}
+
+.flaticon-clock:before {
+  content: "\f143";
+}
+
+.flaticon-growth-2:before {
+  content: "\f144";
+}
+
+.flaticon-computer:before {
+  content: "\f145";
+}
+
+.flaticon-clipboard:before {
+  content: "\f146";
+}
+
+.flaticon-browser:before {
+  content: "\f147";
+}
+
+.flaticon-innovation-1:before {
+  content: "\f148";
+}
+
+.flaticon-browser-1:before {
+  content: "\f149";
+}
+
+.flaticon-package:before {
+  content: "\f14a";
+}
+
+.flaticon-money-bag:before {
+  content: "\f14b";
+}
+
+.flaticon-responsive:before {
+  content: "\f14d";
+}
+
+.flaticon-faq:before {
+  content: "\f14e";
+}
+
+.flaticon-link:before {
+  content: "\f14f";
+}
+
+.flaticon-phone-operator:before {
+  content: "\f150";
+}
+
+.flaticon-fax:before {
+  content: "\f151";
+}
+
+.flaticon-megaphone-1:before {
+  content: "\f152";
+}
+
+.flaticon-location:before {
+  content: "\f153";
+}
+
+.flaticon-email:before {
+  content: "\f154";
+}
+
+.flaticon-smartphone:before {
+  content: "\f155";
+}
+
+.flaticon-mailbox:before {
+  content: "\f156";
+}
+
+.flaticon-flag:before {
+  content: "\f157";
+}
+
+.flaticon-chat:before {
+  content: "\f158";
+}
