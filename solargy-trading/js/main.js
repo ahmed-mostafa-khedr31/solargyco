@@ -5,21 +5,21 @@ function menuHideExtraElements() {
   jQuery("#more-li").remove();
   var wrapperWidth = jQuery(".sf-menu").width();
   var summaryWidth = 0;
-  //get all first level menu items
+
   var $liElements = jQuery(".sf-menu > li");
   $liElements.removeClass("md-hidden");
   $liElements.each(function (index) {
     var elementWidth = jQuery(this).outerWidth();
     summaryWidth += elementWidth;
-    if (summaryWidth >= wrapperWidth) {
-      var $newLi = jQuery('<li id="more-li"><a>...</a><ul></ul></li>');
-      jQuery($liElements[index - 1]).before($newLi);
-      var newLiWidth = jQuery($newLi).outerWidth(true);
-      var $extraLiElements = $liElements.filter(":gt(" + (index - 2) + ")");
-      $extraLiElements.clone().appendTo($newLi.find("ul"));
-      $extraLiElements.addClass("md-hidden");
-      return false;
-    }
+    // if (summaryWidth >= wrapperWidth) {
+    //   var $newLi = jQuery('<li id="more-li"><a>...</a><ul></ul></li>');
+    //   jQuery($liElements[index - 1]).before($newLi);
+    //   var newLiWidth = jQuery($newLi).outerWidth(true);
+    //   var $extraLiElements = $liElements.filter(":gt(" + (index - 2) + ")");
+    //   $extraLiElements.clone().appendTo($newLi.find("ul"));
+    //   $extraLiElements.addClass("md-hidden");
+    //   return false;
+    // }
   });
 }
 
@@ -124,8 +124,8 @@ function documentReadyInit() {
   if (jQuery().superfish) {
     jQuery("ul.sf-menu").superfish({
       delay: 300,
-      // animation: { opacity: "show" },
-      // animationOut: { opacity: "hide" },
+      animation: { opacity: "show" },
+      animationOut: { opacity: "hide" },
       speed: "fast",
       disableHI: false,
       cssArrows: true,
@@ -277,10 +277,10 @@ function documentReadyInit() {
         : true;
       var autoplayTimeout = $carousel.data("autoplay-timeout")
         ? $carousel.data("autoplay-timeout")
-        : 2500; // Delay between slides
+        : 1500; // Delay between slides
       var autoplaySpeed = $carousel.data("autoplay-speed")
         ? $carousel.data("autoplay-speed")
-        : 1500; // Transition speed
+        : 1000; // Transition speed
       var smartSpeed = $carousel.data("smart-speed")
         ? $carousel.data("smart-speed")
         : 800; // Easing speed
@@ -339,7 +339,7 @@ function documentReadyInit() {
 
       $carousel
         .owlCarousel({
-          loop: true,
+          loop: loop,
           margin: margin,
           nav: nav,
           autoplay: autoplay,
@@ -1020,9 +1020,9 @@ function windowLoadInit() {
       e.preventDefault();
       jQuery(this).replaceWith(
         '<iframe class="embed-responsive-item" src="' +
-        jQuery(this).attr("href") +
-        "?rel=0&autoplay=1" +
-        '"></iframe>'
+          jQuery(this).attr("href") +
+          "?rel=0&autoplay=1" +
+          '"></iframe>'
       );
     });
   });
